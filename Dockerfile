@@ -1,5 +1,5 @@
 FROM golang
-MAINTAINER Vip Consult Solutions <team@vip-consult.solutions>
+MAINTAINER carnells <ces1231@gmail.com>
 
 
 ADD . /go/src/cd-demo
